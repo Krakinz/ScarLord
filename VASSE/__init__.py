@@ -1,1 +1,1 @@
-..
+from .VASSE import *
